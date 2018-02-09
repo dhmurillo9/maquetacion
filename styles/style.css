@@ -1,0 +1,251 @@
+ *{
+     margin:0;
+     padding: 0;
+ }
+
+ /*codigo pagina 1 */
+
+.a1{
+    border: 1px solid transparent;
+    margin: 60px 80px 60px 80px;
+    width: 970px;
+    height: 1390px;
+    background-color: #BCEEE3;
+    display: inline-block;
+}
+.a2{
+    margin: 10px 30px 10px 30px;
+    background-color:rgba(0, 128, 0, 0.71);
+    width: 900px ;
+    height: 600px;
+    display: inline-block;
+}
+.a3{
+    margin: 10px 10px 15px 60px;
+    background-color:red;
+    width: 900px;
+    height: 400px;
+    display: inline-block;
+}
+.a4{
+    margin: 15px 40px 30px 30px;
+    width: 900px;
+    height: 300px;
+    background-color: blue;
+}
+
+/* codigo pagina2 */
+
+.b1{
+    margin: 60px 80px;
+    width: 895px;
+    height: 950px;
+    background-color: #C8C8EE;
+    display: inline-block;
+}
+.b2{
+    margin: 30px 20px 7.5px 40px;
+    width:  835px;
+    height: 260px;
+    background-color: red;
+    display: inline-block;
+}
+.b3{
+    margin:30px 15px 10px 20px;
+    width:  800px;
+    height: 100px;
+    background-color: #FFFFFF;
+    display: inline-block;
+}
+.b4{
+    margin:10px 15px 10px 20px;
+    width:  800px;
+    height: 100px;
+    background-color:#FFFFFF;
+    display: inline-block;
+}
+.b5{
+    margin:7.5px 30px 10px 30px;
+    width:  835px;
+    height: 350px;
+    background-color:green;
+    display: inline-block;
+}
+.b6{
+    margin: 30px 25px 20px 10px ;
+    width:  800px;
+    height: 300px;
+    background-color:#8DF78D;
+    display: inline-block;
+}
+.b7{
+    margin:10px 15px 25px 25px ;
+    width:  835px;
+    height: 250px;
+    background-color:black;
+    display: inline-block;
+}
+
+/* codigo de la pagina 3*/
+
+
+.c1{
+    margin: 40px 30px;
+    width: 980px;
+    height: 830px;
+    background-color:#C7556C;
+    display: inline-block;
+}
+.c2{
+    margin:10px 40px 15px 40px ;
+    width: 900px;
+    height: 300px;
+    background-color:#6363C0;
+    display: inline-block;
+}
+.c3{
+    margin: 15px 50px 20px 30px;
+    width: 900px;
+    height: 240px;
+    background-color:green;
+    display: inline-block;
+}
+.c4{
+    margin: 10px 15px 10px 15px;
+    width: 850px;
+    height:  100px;
+    background-color:#51D351;
+    display: inline-block;
+}
+.c5{
+    margin: 20px 60px 10px 20px;
+    width:900px;
+    height: 200px;
+    background-color:#6363C0;
+    display: inline-block;
+}
+.c6{
+    margin: 30px 10px 10px 30px;
+    width: 860px;
+    height: 140px;
+    background-color:#3E3EB4;
+    display: inline-block;
+}
+.c7{
+    margin:  20px;
+    width: 820px;
+    height: 100px;
+    background-color:#8686CE;
+    display: inline-block;
+}
+.c8{
+    margin: 10px 20px;
+    width: 780px;
+    height: 80px;
+    background-color:#EBEBF1;
+    display: inline-block;
+}
+
+/*codigo pagina 4*/
+
+.d1{
+    margin: 40px;
+    width: 1000px;
+    height: 1200px;
+    background-color:#C7556C;
+    display: inline-block;
+}
+.d2{
+    margin: 20px;
+    width: 960px;
+    height: 1160px;
+    background-color:#C53755;
+    display: inline-block;
+}
+.d3{
+    margin: 30px;
+    width: 900px;
+    height: 1100px;
+    background-color:#AA1D3B;
+    display: inline-block;
+}
+.d4{
+    margin:20px 10px 10px 10px;
+    width: 880px;
+    height: 520px;
+    background-color:#77192E;
+    display: inline-block;
+}
+.d5{
+    margin:10px 20px ;
+    width: 840px;
+    height:500px;
+    background-color:#3F0916;
+    display: inline-block;
+}
+.d6{
+    margin:20px 30px 20px 20px ;
+    width: 780px;
+    height:460px;
+    background-color:#0A0002;
+    display: inline-block;
+}
+.d7{
+    margin:10px 10px 10px 10px;
+    width: 880px;
+    height: 520px;
+    background-color:#77192E;
+    display: inline-block;
+}
+/* codigo pagina 6 */
+
+
+.e1{
+    margin:70px 60px;
+    width:920px ;
+    height: 1480px;
+    background-color:#3E3EB4;
+    display: inline-block;
+}
+.e2{
+    margin:20px 60px 20px 40px;
+    width: 820px;
+    height: 1200px;
+    background-color:#2525AD;
+    display: inline-block;
+}
+.e3{
+    margin: 20px 30px 15px 30px;
+    width: 760px;
+    height: 300px;
+    background-color:#8585E4;
+    display: inline-block;
+}
+.e4{
+    margin:15px 20px 7.5px 40px;
+    width: 760px;
+    height: 300px;
+    background-color:#8585E4;
+    display: inline-block;
+}
+.e5{
+    margin:7.5px 40px 7.5px 20px;
+    width: 760px;
+    height: 300px;
+    background-color:#8585E4;
+    display: inline-block;
+}
+.e6{
+    margin:7.5px 45px 20px 15px;
+    width: 760px;
+    height: 200px;
+    background-color:#8585E4;
+    display: inline-block;
+}
+.e7{
+    margin:20px 100px 40px 100px;
+    width: 700px;
+    height: 200px;
+    background-color:#2525AD;
+    display: inline-block;
+}
